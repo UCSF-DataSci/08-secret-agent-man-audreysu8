@@ -1,0 +1,81 @@
+{
+  "killer": "Larry",
+  "weapon": "Antler trophy",
+  "motive": "Jealousy over the discovery of the $200K in old coins and a dispute over the grandfather's map.",
+  "evidence": [
+    "The antler trophy on the mantel has been wiped clean \u2014 no fingerprints at all, which is suspicious since Marcus handled it regularly.",
+    "A small scuff mark on the hardwood floor near the fireplace, consistent with a brief struggle.",
+    "Marcus's phone shows his last text at 10:28pm: 'I told you, it's mine now. Deal with it.'",
+    "Larry's hiking boots are damp and have fresh mud on them, though he claims he didn't go outside after dinner.",
+    "The unlocked back door, though everyone claims it was locked after dinner, suggests someone entered or exited without being noticed.",
+    "A pair of rubber gloves from the cleaning supplies has been moved \u2014 one is inside-out as if hastily removed, indicating a quick cleanup after the murder.",
+    "A journal entry from last week reads: 'Larry's been asking questions. He can't prove anything. The map led me to $200K in old coins \u2014 that was MY discovery.'",
+    "Diana's lipstick on the coffee mug suggests she was present, but her alibi is weak, indicating she may have been involved or aware of the situation."
+  ],
+  "transcript": [
+    {
+      "action": "tool",
+      "detail": "Retrieved room map"
+    },
+    {
+      "action": "tool",
+      "detail": "Retrieved evidence and keycard logs"
+    },
+    {
+      "action": "tool",
+      "detail": "Retrieved weapons analysis"
+    },
+    {
+      "action": "tool",
+      "detail": "Retrieved investigation rules"
+    },
+    {
+      "action": "interview",
+      "detail": "Got statement from Dr. Raymond Blake"
+    },
+    {
+      "action": "interview",
+      "detail": "Got statement from Nurse Margaret Chen"
+    },
+    {
+      "action": "interview",
+      "detail": "Got statement from Dr. Maria Santos"
+    },
+    {
+      "action": "interview",
+      "detail": "Got statement from Victor James"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What can you tell me about the text Marcus sent at 10:28pm? Who do you think he "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Why do your hiking boots have fresh mud on them if you claim you didn't go outsi"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned hearing Diana's door open and close around 11pm. Can you describe "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What can you tell me about the photos taken by your camera between 9:04pm and 11"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I can't say for certain who he was texting at that hour. Marcus was always a bit of a social butterf"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, those boots? I must have stepped in some mud earlier in the day while I was out for a walk. "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: At that time, I was still on the video call with my wife, discussing our day and catching up. I didn"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was focused on capturing the snowfall, so I didn't really pay attention to what was happening insi"
+    }
+  ]
+}
